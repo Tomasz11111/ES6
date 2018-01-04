@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     
-	 "start": "babel script.js --watch --out-file script-compiled.js"
+	 "build": "babel script.js --watch --out-file build.js"
   },
   "author": "",
   "license": "ISC",
